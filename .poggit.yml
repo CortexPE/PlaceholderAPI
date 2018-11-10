@@ -4,4 +4,5 @@ branches:
 projects:
   PlaceholderAPI:
     path: ""
+    icon: "icon.png"
 ...
