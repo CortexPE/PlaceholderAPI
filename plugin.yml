@@ -1,0 +1,8 @@
+name: PlaceholderAPI
+main: CortexPE\PlaceholderAPI
+version: 0.0.1
+api: 3.0.0
+load: POSTWORLD
+author: CortexPE
+description: "Simple barebones API to implement centralized static and dynamic placeholders/variables with ease"
+website: https://CortexPE.xyz
