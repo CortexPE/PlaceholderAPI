@@ -18,7 +18,7 @@ Originally made for my own server, Just publicized because I think the "communit
 ## FYI
  **Q:** But Cortex, can't these placeholders be f'ed up by other plugins overwriting them?
  <br />
- **A:** Yes. But this plugin tells you whenever that happens and what "plugin" / registrar (can be bypassed if the developer is a d!%4) did it. If you consider that an attack vector, there's still thousands of ways to do so even without using this plugin.
+ **A:** Yes. But this plugin tells you whenever that happens and what "plugin" / registrant (can be bypassed if the developer is a d!¢k) did it. If you consider that an attack vector, there's still thousands of ways to do so even without using this plugin.
  
  
  **Q**: How do I do *X*???
